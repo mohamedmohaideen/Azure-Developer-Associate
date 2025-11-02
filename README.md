@@ -21,31 +21,31 @@ Focus areas include Azure App Services, Azure Functions, Blob Storage, Azure SQL
 
 ## **Spring Ecosystem**
 
-## **Spring Framework** – Core concepts (IoC, DI, Beans, ApplicationContext)
+ **Spring Framework** – Core concepts (IoC, DI, Beans, ApplicationContext)
 
-## **Spring Boot** – Rapid application setup and RESTful API development
+ **Spring Boot** – Rapid application setup and RESTful API development
 
-## **Spring MVC** – Request handling, controller-service-DAO architecture
+ **Spring MVC** – Request handling, controller-service-DAO architecture
 
-## **Spring Data JPA & Hibernate** – ORM, relationships, pagination, query optimization
+ **Spring Data JPA & Hibernate** – ORM, relationships, pagination, query optimization
 
-## **Spring AOP** – Aspect-oriented programming (logging, security)
+ **Spring AOP** – Aspect-oriented programming (logging, security)
 
-## **Spring Transactions & Caching** – Reliable and optimized performance
+ **Spring Transactions & Caching** – Reliable and optimized performance
 
-## **Spring Batch** – Large-scale batch processing jobs
+ **Spring Batch** – Large-scale batch processing jobs
 
-## **Security & Authentication**
+ **Security & Authentication**
 
-## **Spring Security** – Authentication, authorization, CSRF protection
+ **Spring Security** – Authentication, authorization, CSRF protection
 
-## **JWT (JSON Web Token)** – Stateless authentication for REST APIs
+ **JWT (JSON Web Token)** – Stateless authentication for REST APIs
 
-## **Microservices & Cloud Architecture**
+ **Microservices & Cloud Architecture**
 
-## **Spring Cloud** – Distributed system patterns (Eureka, Gateway, Config Server)
+ **Spring Cloud** – Distributed system patterns (Eureka, Gateway, Config Server)
 
-## **Service Discovery & API Gateway** – Scalable microservices communication
+ **Service Discovery & API Gateway** – Scalable microservices communication
 
 Load Balancing, Centralized Configuration, Resilience4J
 
